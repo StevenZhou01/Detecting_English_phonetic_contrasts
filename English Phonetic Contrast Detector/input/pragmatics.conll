@@ -1,0 +1,177 @@
+1 1 1 I I PRON PRP Case=Nom|Number=Sing|Person=1|PronType=Prs 2 nsubj 0 1 O - - - -
+1 1 2 know know VERB VBP Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin 0 root 2 6 O Present_Simple - IrrV -
+1 1 3 where where ADV WRB PronType=Int 5 advmod 7 12 O - - - -
+1 1 4 to to PART TO NoFeats 5 mark 13 15 O - - - -
+1 1 5 find find VERB VB VerbForm=Inf 2 ccomp 16 20 O - - IrrV -
+1 1 6 him he PRON PRP Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs 5 obj 21 24 O - - - -
+1 1 7 . . PUNCT . NoFeats 2 punct 24 25 O - - - -
+
+2 1 1 All all DET DT NoFeats 2 det 32 35 O - - - -
+2 1 2 right right ADV RB NoFeats 4 advmod 36 41 O - - - -
+2 1 3 , , PUNCT , NoFeats 4 punct 41 42 O - - - -
+2 1 4 scan scan VERB VB Mood=Imp|VerbForm=Fin 0 root 43 47 O Imperative - - -
+2 1 5 the the DET DT Definite=Def|PronType=Art 6 det 48 51 O - - - -
+2 1 6 crowd crowd NOUN NN Number=Sing 4 obj 52 57 O - - - -
+2 1 7 . . PUNCT . NoFeats 4 punct 57 58 O - - - -
+
+2 2 1 Powell Powell PROPN NNP Number=Sing 3 nsubj 59 65 O - - - -
+2 2 2 's be AUX VBZ Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin 3 aux 65 67 O Present_Simple_Passive - - -
+2 2 3 got get VERB VBN Tense=Past|VerbForm=Part 0 root 68 74 O Present_Simple_Passive - IrrV -
+2 2 4 ta to PART TO NoFeats 6 mark 71 73 O - - - -
+2 2 5 be be AUX VB VerbForm=Inf 6 cop 74 76 O - - - -
+2 2 6 there there ADV RB PronType=Dem 3 xcomp 77 82 O - - - -
+2 2 7 somewhere somewhere ADV RB NoFeats 6 advmod 83 92 O - - - -
+2 2 8 . . PUNCT . NoFeats 3 punct 92 93 O - - - -
+
+3 1 1 Invite invite VERB VB Mood=Imp|VerbForm=Fin 0 root 100 106 O Imperative - - -
+3 1 2 only only ADV RB NoFeats 1 advmod 107 111 O - - - -
+3 1 3 , , PUNCT , NoFeats 4 punct 111 112 O - - - -
+3 1 4 gentlemen gentleman NOUN NNS Number=Plur 1 vocative 113 122 O - - - -
+3 1 5 . . PUNCT . NoFeats 1 punct 122 123 O - - - -
+
+4 1 1 Okay okay INTJ UH NoFeats 0 root 130 134 O - - - -
+4 1 2 . . PUNCT . NoFeats 1 punct 134 135 O - - - -
+
+4 2 1 I I PRON PRP Case=Nom|Number=Sing|Person=1|PronType=Prs 2 nsubj 136 137 O - - - -
+4 2 2 left leave VERB VBD Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin 0 root 138 142 O Past_Simple - IrrV -
+4 2 3 mine mine PRON PRP Gender=Neut|Number=Sing|Person=1|Poss=Yes|PronType=Prs 2 obj 143 147 O - - - -
+4 2 4 at at ADP IN NoFeats 5 case 148 150 O - - - -
+4 2 5 home home NOUN NN Number=Sing 2 obl 151 155 O - - - -
+4 2 6 . . PUNCT . NoFeats 2 punct 155 156 O - - - -
+
+5 1 1 Sorry sorry ADJ JJ Degree=Pos 0 root 163 168 O - - - -
+5 1 2 . . PUNCT . NoFeats 1 punct 168 169 O - - - -
+
+5 2 1 You you PRON PRP Case=Nom|Person=2|PronType=Prs 3 nsubj 170 173 O - - - -
+5 2 2 're be AUX VBP Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin 3 aux 173 176 O Present_Continuous - - -
+5 2 3 gon go VERB VBG Tense=Pres|VerbForm=Part 0 root 177 180 O Present_Continuous - IrrV -
+5 2 4 na to PART TO NoFeats 5 mark 179 182 O - - - -
+5 2 5 have have VERB VB VerbForm=Inf 3 xcomp 183 187 O - - IrrV -
+5 2 6 to to PART TO NoFeats 7 mark 188 190 O - - - -
+5 2 7 go go VERB VB VerbForm=Inf 5 xcomp 191 193 O - - IrrV -
+5 2 8 home home ADV RB NoFeats 7 advmod 194 198 O - - - -
+5 2 9 and and CCONJ CC NoFeats 10 cc 199 202 O - - - -
+5 2 10 get get VERB VB VerbForm=Inf 7 conj 203 206 O - - IrrV -
+5 2 11 it it PRON PRP Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs 10 obj 207 209 O - - - -
+5 2 12 . . PUNCT . NoFeats 3 punct 209 210 O - - - -
+
+6 1 1 Okay okay INTJ UH NoFeats 0 root 217 221 O - - - -
+6 1 2 . . PUNCT . NoFeats 1 punct 221 222 O - - - -
+
+7 1 1 That that PRON DT Number=Sing|PronType=Dem 4 nsubj 229 233 O - - - -
+7 1 2 was be AUX VBD Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin 4 cop 234 237 O Past_Simple - - -
+7 1 3 your your PRON PRP$ Case=Gen|Person=2|Poss=Yes|PronType=Prs 4 nmod:poss 238 242 O - - - -
+7 1 4 plan plan NOUN NN Number=Sing 0 root 243 247 O - - - -
+7 1 5 ? ? PUNCT . NoFeats 4 punct 247 248 O - - - -
+
+7 2 1 Did do AUX VBD Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin 3 aux 249 253 O Past_Simple - - -
+7 2 2 n't not PART RB NoFeats 3 advmod 253 255 O - - - -
+7 2 3 forge forge VERB VB VerbForm=Inf 0 root 256 261 O Past_Simple - - -
+7 2 4 an a DET DT Definite=Ind|PronType=Art 5 det 262 264 O - - - -
+7 2 5 invitation invitation NOUN NN Number=Sing 3 obj 265 275 O - - - -
+7 2 6 ? ? PUNCT . NoFeats 3 punct 275 276 O - - - -
+
+8 1 1 I I PRON PRP Case=Nom|Number=Sing|Person=1|PronType=Prs 3 nsubj:pass 283 284 O - - - -
+8 1 2 was be AUX VBD Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin 3 aux:pass 285 288 O Past_Simple_Passive - - -
+8 1 3 allowed allow VERB VBN Tense=Past|VerbForm=Part|Voice=Pass 0 root 289 296 O Past_Simple_Passive - - -
+8 1 4 to to PART TO NoFeats 3 xcomp 297 299 O - - - -
+8 1 5 ? ? PUNCT . NoFeats 3 punct 299 300 O - - - -
+
+8 2 1 No no INTJ UH Polarity=Neg 0 root 301 303 O - - - -
+8 2 2 . . PUNCT . NoFeats 1 punct 303 304 O - - - -
+
+9 1 1 Wait wait VERB VB Mood=Imp|VerbForm=Fin 0 root 311 315 O Imperative - - -
+9 1 2 , , PUNCT , NoFeats 1 punct 315 316 O - - - -
+9 1 3 that that PRON DT Number=Sing|PronType=Dem 5 nsubj 317 321 O - - - -
+9 1 4 's be AUX VBZ Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin 5 cop 321 323 O Present_Simple - - -
+9 1 5 her her PRON PRP Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs 1 parataxis 324 327 O - - - -
+9 1 6 . . PUNCT . NoFeats 1 punct 327 328 O - - - -
+
+10 1 1 Excuse excuse VERB VB Mood=Imp|VerbForm=Fin 0 root 335 341 O Imperative - - -
+10 1 2 me I PRON PRP Case=Acc|Number=Sing|Person=1|PronType=Prs 1 iobj 342 344 O - - - -
+10 1 3 . . PUNCT . NoFeats 1 punct 344 345 O - - - -
+
+10 2 1 Hi hi INTJ UH NoFeats 0 root 346 348 O - - - Greeting_Informal
+10 2 2 . . PUNCT . NoFeats 1 punct 348 349 O - - - Greeting_Informal
+
+11 1 1 I I PRON PRP Case=Nom|Number=Sing|Person=1|PronType=Prs 2 nsubj 356 357 O - - - -
+11 1 2 seem seem VERB VBP Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin 0 root 358 362 O Present_Simple - - -
+11 1 3 to to PART TO NoFeats 5 mark 363 365 O - - - -
+11 1 4 have have AUX VB VerbForm=Inf 5 aux 366 370 O - - - -
+11 1 5 forgotten forget VERB VBN Tense=Past|VerbForm=Part 2 xcomp 371 380 O - - IrrV -
+11 1 6 my my PRON PRP$ Case=Gen|Number=Sing|Person=1|Poss=Yes|PronType=Prs 7 nmod:poss 381 383 O - - - -
+11 1 7 invitation invitation NOUN NN Number=Sing 5 obj 384 394 O - - - -
+11 1 8 . . PUNCT . NoFeats 2 punct 394 395 O - - - -
+
+12 1 1 And and CCONJ CC NoFeats 3 cc 402 405 O - - - -
+12 1 2 you you PRON PRP Case=Nom|Person=2|PronType=Prs 3 nsubj 406 409 O - - - -
+12 1 3 are be VERB VBP Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin 0 root 410 413 O Present_Simple - IrrV -
+12 1 4 ? ? PUNCT . NoFeats 3 punct 413 414 O - - - -
+
+13 1 1 Dr. Dr. PROPN NNP Number=Sing 0 root 421 424 O - - - -
+13 1 2 Parker Parker PROPN NNP Number=Sing 1 flat 425 431 S-PERSON - - - -
+13 1 3 from from ADP IN NoFeats 6 case 432 436 O - - - -
+13 1 4 Doctoral Doctoral PROPN NNP Number=Sing 6 compound 437 445 B-ORG - - - -
+13 1 5 Global Global ADJ NNP Degree=Pos 6 amod 446 452 I-ORG - - - -
+13 1 6 Initiative Initiative PROPN NNP Number=Sing 1 nmod 453 463 E-ORG - - - -
+13 1 7 . . PUNCT . NoFeats 1 punct 463 464 O - - - -
+
+13 2 1 But but CCONJ CC NoFeats 4 cc 465 468 O - - - -
+13 2 2 you you PRON PRP Case=Nom|Person=2|PronType=Prs 4 nsubj 469 472 O - - - -
+13 2 3 can can AUX MD VerbForm=Fin 4 aux 473 476 O Modal_Verb - - -
+13 2 4 call call VERB VB VerbForm=Inf 0 root 477 481 O Modal_Verb - - -
+13 2 5 me I PRON PRP Case=Acc|Number=Sing|Person=1|PronType=Prs 4 obj 482 484 O - - - -
+13 2 6 Leonard Leonard PROPN NNP Number=Sing 4 xcomp 485 492 S-PERSON - - - -
+13 2 7 . . PUNCT . NoFeats 4 punct 492 493 O - - - -
+
+14 1 1 And and CCONJ CC NoFeats 3 cc 500 503 O - - - -
+14 1 2 you you PRON PRP Case=Nom|Person=2|PronType=Prs 3 nsubj 504 507 O - - - -
+14 1 3 are be VERB VBP Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin 0 root 508 511 O Present_Simple - IrrV -
+14 1 4 ? ? PUNCT . NoFeats 3 punct 511 512 O - - - -
+
+15 1 1 Miss Miss PROPN NNP Number=Sing 0 root 519 523 O - - - -
+15 1 2 Calloway Calloway PROPN NNP Number=Sing 1 flat 524 532 S-PERSON - - - -
+15 1 3 . . PUNCT . NoFeats 1 punct 532 533 O - - - -
+
+16 1 1 Remember remember VERB VB Mood=Imp|VerbForm=Fin 0 root 540 548 O Imperative - - -
+16 1 2 your your PRON PRP$ Case=Gen|Person=2|Poss=Yes|PronType=Prs 3 nmod:poss 549 553 O - - - -
+16 1 3 invitation invitation NOUN NN Number=Sing 1 obj 554 564 O - - - -
+16 1 4 next next ADJ JJ Degree=Pos 5 amod 565 569 O - - - -
+16 1 5 time time NOUN NN Number=Sing 1 obl:tmod 570 574 O - - - -
+16 1 6 , , PUNCT , NoFeats 1 punct 574 575 O - - - -
+16 1 7 doctor doctor NOUN NN Number=Sing 1 vocative 576 582 O - - - -
+16 1 8 . . PUNCT . NoFeats 1 punct 582 583 O - - - -
+
+16 2 1 Have have VERB VB Mood=Imp|VerbForm=Fin 0 root 584 588 O Imperative - IrrV -
+16 2 2 a a DET DT Definite=Ind|PronType=Art 4 det 589 590 O - - - -
+16 2 3 good good ADJ JJ Degree=Pos 4 amod 591 595 O - - - -
+16 2 4 afternoon afternoon NOUN NN Number=Sing 1 obj 596 605 O - - - -
+16 2 5 . . PUNCT . NoFeats 1 punct 605 606 O - - - -
+
+17 1 1 You you PRON PRP Case=Nom|Person=2|PronType=Prs 0 root 613 616 O - - - -
+17 1 2 too too ADV RB NoFeats 1 advmod 617 620 O - - - -
+17 1 3 . . PUNCT . NoFeats 1 punct 620 621 O - - - -
+
+18 1 1 I I PRON PRP Case=Nom|Number=Sing|Person=1|PronType=Prs 3 nsubj 628 629 O - - - Suggestion_Direct
+18 1 2 'd would AUX MD VerbForm=Fin 3 aux 629 631 O Modal_Verb - - Suggestion_Direct
+18 1 3 suggest suggest VERB VB VerbForm=Inf 0 root 632 639 O Modal_Verb - - Suggestion_Direct
+18 1 4 that that SCONJ IN NoFeats 6 mark 640 644 O - - - Suggestion_Direct
+18 1 5 you you PRON PRP Case=Nom|Person=2|PronType=Prs 6 nsubj 645 648 O - - - Suggestion_Direct
+18 1 6 open open VERB VBP Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin 3 ccomp 649 653 O Present_Simple - - -
+18 1 7 the the DET DT Definite=Def|PronType=Art 8 det 654 657 O - - - -
+18 1 8 door door NOUN NN Number=Sing 6 obj 658 662 O - - - -
+18 1 9 . . PUNCT . NoFeats 3 punct 662 663 O - - - -
+
+18 2 1 Good good ADJ JJ Degree=Pos 2 amod 664 668 O - - - Greeting_Conventionalised
+18 2 2 morning morning NOUN NN Number=Sing 0 root 670 677 O - - - Greeting_Conventionalised
+18 2 3 ! ! PUNCT . NoFeats 2 punct 677 678 O - - - -
+
+18 3 1 I I PRON PRP Case=Nom|Number=Sing|Person=1|PronType=Prs 3 nsubj 679 680 O - - - Apologising_Conventionalised
+18 3 2 'm be AUX VBP Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin 3 cop 680 682 O Present_Simple - - Apologising_Conventionalised
+18 3 3 sorry sorry ADJ JJ Degree=Pos 0 root 683 688 O - - - Apologising_Conventionalised
+18 3 4 . . PUNCT . NoFeats 3 punct 688 689 O - - - -
+
+19 1 1 Asla Asla PROPN NNP Number=Sing 0 root 696 700 B-PERSON - - - -
+19 1 2 da da PROPN NNP Number=Sing 1 flat 701 703 I-PERSON - - - -
+19 1 3 te the X FW NoFeats 1 flat 704 706 E-PERSON - - - -
+19 1 4 . . PUNCT . NoFeats 1 punct 706 707 O - - - -
